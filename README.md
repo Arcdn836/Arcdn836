@@ -41,18 +41,6 @@
 
 ---
 
-## 📊 Stats y actividad
-
-<div align="center">
-
-![Frank GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrankUsername&show_icons=true&theme=tokyonight&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankUsername&layout=compact&theme=tokyonight)
-![Streak Stats](https://streak-stats.demolab.com/?user=FrankUsername&theme=tokyonight)
-
-</div>
-
----
-
 ## 📚 Actualmente aprendiendo
 
 - ☁️ Fundamentos de **AWS** y **GCP**
