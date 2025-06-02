@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-link.com/banner.png" alt="Frank - Ciberseguridad & Dev" />
+  <img src="https://your-banner-link.com/banner.png" alt="Ezequiel - Ciberseguridad & Dev" />
 </p>
 
 <h1 align="center">Hola, soy Ezequiel👋</h1>
