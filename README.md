@@ -10,3 +10,6 @@
 
 ## 🧰 Tecnologías y herramientas:
 ![My Skills](https://skillicons.dev/icons?i=react,tailwind,typescript,firebase,linux,git,html,css)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/tuusuario/tu-repo)
+![GitHub repo size](https://img.shields.io/github/repo-size/tuusuario/tu-repo)
