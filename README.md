@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Frank (Ezequiel)
+# 👋 ¡Hola! Soy Ezequiel
 
 🎓 Estudiante de Ciberseguridad | 💻 Desarrollador Web
 
