@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-link.com/banner.png" alt="Ezequiel - Ciberseguridad & Dev" />
+  <img src="![image](https://github.com/user-attachments/assets/a10af29c-8679-4c53-be01-27105d3ae29e)
+" alt="Ezequiel - Ciberseguridad & Dev" />
 </p>
 
 <h1 align="center">Hola, soy Ezequiel👋</h1>
